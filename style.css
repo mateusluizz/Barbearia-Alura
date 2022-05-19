@@ -22,14 +22,26 @@ em strong {
   color: #ff0000;
 }
 
-h2 {
-  text-align: center;
-}
-
 .itens {
   font-style: italic;
 }
 
-.beneficios {
-  background-color: #ffffff;
+h2 {
+  text-align: center;
+}
+
+.beneficios{
+  background: #FFFFFF;
+  padding: 30px;
+}
+
+ul {
+  display: inline-block;
+  vertical-align: top;
+  width: 20%;
+  margin-right: 15%;
+}
+
+.imagem-beneficios {
+  width: 50%;
 }
