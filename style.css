@@ -39,8 +39,7 @@ nav a:hover {
 
 /*css do main*/
 main {
-  width: 940px;
-  margin: 0 auto;
+  
 }
 
 .banner {
@@ -56,6 +55,13 @@ main {
   text-align: center;
   margin: 0 0 1em;
   clear: left;
+}
+
+.principal {
+  padding: 3em 0;
+  background: #fefefe;
+  width: 940px;
+  margin: 0 auto;
 }
 
 .principal p {
@@ -78,6 +84,12 @@ main {
 
 .mapa {
   padding: 3em 0;
+  background: linear-gradient(#fefefe, #888888);
+}
+
+.mapa-conteudo {
+  width: 940px;
+  margin: 0 auto;
 }
 
 .mapa p {
@@ -92,10 +104,11 @@ main {
 
 .beneficios {
   padding: 3em 0;
+  background: #888888;
 }
 
 .conteudo-beneficios {
-  width: 640px auto;
+  width: 640px;
   margin: 0 auto;
 }
 
@@ -107,10 +120,6 @@ main {
 
 .imagem-beneficios {
   width: 60%;
-}
-
-#missao {
-  font-size: 20px;
 }
 
 .itens {
