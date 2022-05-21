@@ -46,6 +46,7 @@ nav a:hover {
   font-size: 2em;
   text-align: center;
   margin: 0 0 1em;
+  clear: left;
 }
 
 .principal p {
@@ -58,6 +59,16 @@ nav a:hover {
 
 .principal em {
   font-style: italic;
+}
+
+.imagem-beneficios {
+  width: 60%;
+}
+
+.utensilios {
+  width: 120px;
+  float: left;
+  margin: 0 20px 20px 0;
 }
 
 #missao {
@@ -80,9 +91,7 @@ nav a:hover {
   margin-right: 15%;
 }
 
-.imagem-beneficios {
-  width: 60%;
-}
+
 
 footer {
   padding: 40px 0;
