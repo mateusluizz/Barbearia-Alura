@@ -65,17 +65,18 @@ legend {
   transform: scale(1.1);
 }
 
-table{
+table {
   margin: 20px 0 40px;
 }
 
-thead{
+thead {
   background: #555555;
   color: white;
   font-weight: bold;
 }
 
-td, th {
+td,
+th {
   border: 1px #000000 solid;
   padding: 8px 15px;
 }
