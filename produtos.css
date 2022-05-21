@@ -84,3 +84,9 @@ footer {
   text-align: center;
   background: url("./imgs/bg.jpg");
 }
+
+.copyright {
+  color: white;
+  font-size: 13px;
+  margin: 20px 0 0;
+}
