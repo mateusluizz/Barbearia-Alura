@@ -1,3 +1,7 @@
+body {
+  font-family: 'Montserrat', sans-serif;
+}
+
 header {
   background-color: #bbbbbb;
   padding: 20px 0;
@@ -53,7 +57,7 @@ nav a:hover {
   margin: 0 0 1em;
 }
 
-.principal strong{
+.principal strong {
   font-weight: bold;
 }
 
@@ -91,8 +95,7 @@ nav a:hover {
   margin-right: 15%;
 }
 
-
-
+/*Css do Rodapé*/
 footer {
   padding: 40px 0;
   text-align: center;
@@ -103,4 +106,13 @@ footer {
   color: white;
   font-size: 13px;
   margin: 20px 0 0;
+}
+
+.mapa {
+  padding: 3em 0;
+}
+
+.mapa p {
+  margin: 0 0 2em;
+  text-align: center;
 }
