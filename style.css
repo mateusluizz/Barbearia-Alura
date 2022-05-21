@@ -38,9 +38,6 @@ nav a:hover {
 }
 
 /*css do main*/
-main {
-  
-}
 
 .banner {
   width: 100%;
@@ -55,6 +52,10 @@ main {
   text-align: center;
   margin: 0 0 1em;
   clear: left;
+}
+
+.titulo-principal::first-letter {
+  font-weight: bold;
 }
 
 .principal {
@@ -128,6 +129,10 @@ main {
 
 .itens:first-child {
   font-weight: bold;
+}
+
+.itens:before{
+  content: "★ ";
 }
 
 /*Css do Rodapé*/
