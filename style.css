@@ -121,6 +121,12 @@ nav a:hover {
 
 .imagem-beneficios {
   width: 60%;
+  opacity: .5;
+  transition: 400ms;
+}
+
+.imagem-beneficios:hover{
+  opacity: 1;
 }
 
 .itens {
